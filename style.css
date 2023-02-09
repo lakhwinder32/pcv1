@@ -531,4 +531,6 @@ cursor: pointer;
     display: block;
     padding: 20px;
   }
+  .main:nth-child(2){
+    height:auto;
 }
